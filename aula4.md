@@ -1,4 +1,4 @@
-**Por que as imagens ficam "quadriculadas" ao darmos zoom?**
+## Por que as imagens ficam "quadriculadas" ao darmos zoom?
 
 Todo mundo já passou por isso: você acha uma imagem pequena na internet, tenta aumentar para ver um detalhe e, de repente, ela fica cheia de quadradinhos e perde totalmente a nitidez. Antes, eu só pensava que a imagem tinha "perdido a qualidade", mas entender o que rola por trás da tela é muito mais fascinante!
 
