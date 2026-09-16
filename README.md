@@ -8,3 +8,4 @@ Bem-vindo ao meu blog! Aqui vou postar meus aprendizados da disciplina de Comput
 * [2. Resumo da Aula 2: OpenGL à Biologia](aula2.md)
 * [3. Amostragem, Quantização e Transformações de Intensidade](aula3.md)
 * [4.Por que as imagens ficam "quadriculadas" ao darmos zoom?](aula4.md)
+  
