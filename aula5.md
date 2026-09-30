@@ -45,3 +45,4 @@ Sistemas de inteligência artificial usam essa distribuição de luz e cor para 
 O histograma é a prova de que, na tecnologia, você não precisa olhar para cada grão de areia para entender a praia. Transformar uma imagem complexa em um simples gráfico de barras numéricas é o primeiro passo para ensinar as máquinas a enxergarem o nosso mundo.
 
 Qual foi a última vez que um ajuste de contraste ou iluminação salvou uma foto sua? Muito provavelmente, havia um histograma trabalhando silenciosamente nos bastidores para fazer isso acontecer.
+
