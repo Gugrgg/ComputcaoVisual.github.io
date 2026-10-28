@@ -9,4 +9,5 @@ Bem-vindo ao meu blog! Aqui vou postar meus aprendizados da disciplina de Comput
 * [3. Amostragem, Quantização e Transformações de Intensidade](aula3.md)
 * [4.Por que as imagens ficam "quadriculadas" ao darmos zoom?](aula4.md)
 * [5.Desvendando o Histograma: Como os Computadores "Enxergam" as Imagens?](aula5.md)
-  
+* [6.Detecção de bordas: encontrando os contornos de uma imagem](aula6.md)
+* [7.Detector de Canny: afinando a borda e limpando o resto](aula7.md)
