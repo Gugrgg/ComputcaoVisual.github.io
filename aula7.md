@@ -1,4 +1,4 @@
-Detector de Canny: afinando a borda e limpando o resto
+## Detector de Canny: afinando a borda e limpando o resto
 
 Ele já encontra as bordas, mas devolve um contorno grosso, borrado e cheio de ruído. O detector de Canny é o passo seguinte, e quase quarenta anos depois continua sendo o mais usado.
 
